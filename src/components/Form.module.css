@@ -21,6 +21,7 @@
 }
 
 .flag {
+  color: var(--color-dark--0);
   position: absolute;
   right: 1rem;
   top: 2.7rem;

@@ -2,8 +2,11 @@ import Spinner from "./Spinner";
 import Message from "./Message";
 import styles from "./CountryList.module.css";
 import CountryItem from "./CountryItem";
+import { useCities } from "../contexts/CitiesContext";
 
-function CountryList({ cities, isLoading }) {
+function CountryList() {
+  const { cities, isLoading } = useCities();
+
   const countries = cities.reduce((acc, city) => {
     if (!acc.map((el) => el.country).includes(city.country))
       return [...acc, { country: city.country, emoji: city.emoji }];
