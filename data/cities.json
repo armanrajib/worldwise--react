@@ -25,51 +25,51 @@
       }
     },
     {
-      "id": "010c",
+      "id": "bc00",
       "cityName": "Dhaka",
       "country": "Bangladesh",
       "emoji": "🇧🇩",
-      "date": "2024-10-25T13:38:45.395Z",
-      "notes": "My home",
+      "date": "2024-11-12T17:00:02.598Z",
+      "notes": "Home",
       "position": {
-        "lat": "23.70072868859275",
-        "lng": "90.43724456290552"
+        "lat": "23.80150855697771",
+        "lng": "90.41748046875001"
       }
     },
     {
-      "id": "8314",
+      "id": "29ed",
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-11-12T17:10:58.356Z",
+      "notes": "Home of FC Barcelona",
+      "position": {
+        "lat": "41.349598979671484",
+        "lng": "2.1615600585937504"
+      }
+    },
+    {
+      "id": "7fbc",
       "cityName": "Los Angeles",
       "country": "United States of America (the)",
       "emoji": "🇺🇸",
-      "date": "2024-10-25T13:39:43.370Z",
-      "notes": "Hollywood",
+      "date": "2024-11-12T17:11:48.088Z",
+      "notes": "City of Angles!",
       "position": {
-        "lat": "34.05290262702017",
-        "lng": "-118.23897443366587"
+        "lat": "34.01262918875054",
+        "lng": "-117.83935546875001"
       }
     },
     {
-      "id": "9a33",
-      "cityName": "Sacramento",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2024-10-25T15:11:12.483Z",
-      "notes": "Capital of California",
+      "id": "d900",
+      "cityName": "Gaza",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2024-11-12T17:14:23.253Z",
+      "notes": "Genocide!",
       "position": {
-        "lat": "38.592832211661175",
-        "lng": "-121.45330081408333"
-      }
-    },
-    {
-      "id": "a4cd",
-      "cityName": "Kolkata",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-10-28T09:52:53.171Z",
-      "notes": "Capital of West Bengal",
-      "position": {
-        "lat": "22.589313773057796",
-        "lng": "88.29105020178474"
+        "lat": "31.465652336239955",
+        "lng": "34.38995361328126"
       }
     }
   ]
