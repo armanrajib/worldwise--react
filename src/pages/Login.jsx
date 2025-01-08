@@ -11,8 +11,8 @@ export default function Login() {
   const { isAuthenticated, login } = useAuth();
 
   // PRE-FILL FOR DEV PURPOSES
-  const [email, setEmail] = useState("jack@example.com");
-  const [password, setPassword] = useState("qwerty");
+  const [email, setEmail] = useState("armanrajib@gmail.com");
+  const [password, setPassword] = useState("fakepassword");
 
   useEffect(
     function () {

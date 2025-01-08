@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "id": "c7a2",
-      "cityName": "London",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "date": "2024-10-25T13:35:52.677Z",
-      "notes": "Home of Football",
-      "position": {
-        "lat": "51.478636762879304",
-        "lng": "-0.11208778964119093"
-      }
-    },
-    {
       "id": "36fa",
       "cityName": "Paris",
       "country": "France",
@@ -37,39 +25,39 @@
       }
     },
     {
-      "id": "29ed",
-      "cityName": "Barcelona",
+      "id": "b274",
+      "cityName": "Melbourne",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2025-01-08T14:01:09.218Z",
+      "notes": "Beautiful MCG!",
+      "position": {
+        "lat": "-37.8104421714503",
+        "lng": "144.95910644531253"
+      }
+    },
+    {
+      "id": "2f4f",
+      "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2024-11-12T17:10:58.356Z",
-      "notes": "Home of FC Barcelona",
+      "date": "2025-01-08T14:02:11.908Z",
+      "notes": "Capital of Spain",
       "position": {
-        "lat": "41.349598979671484",
-        "lng": "2.1615600585937504"
+        "lat": "40.4021271499877",
+        "lng": "-3.7243652343750004"
       }
     },
     {
-      "id": "7fbc",
-      "cityName": "Los Angeles",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2024-11-12T17:11:48.088Z",
-      "notes": "City of Angles!",
+      "id": "0c26",
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-01-08T14:02:33.297Z",
+      "notes": "Very cold!",
       "position": {
-        "lat": "34.01262918875054",
-        "lng": "-117.83935546875001"
-      }
-    },
-    {
-      "id": "d900",
-      "cityName": "Gaza",
-      "country": "Palestine, State of",
-      "emoji": "🇵🇸",
-      "date": "2024-11-12T17:14:23.253Z",
-      "notes": "Genocide!",
-      "position": {
-        "lat": "31.465652336239955",
-        "lng": "34.38995361328126"
+        "lat": "52.44594252381589",
+        "lng": "13.403320312500002"
       }
     }
   ]
